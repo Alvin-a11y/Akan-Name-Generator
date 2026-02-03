@@ -50,6 +50,7 @@ function calculateAkanName(event) {
      Your Akan name is <strong>${akanName}</strong>.`;
 
   document.getElementById("akanForm").reset();
+  // clear form after submit 
 }
 
 document.getElementById("akanForm").addEventListener("submit", calculateAkanName);
