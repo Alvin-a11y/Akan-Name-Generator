@@ -27,6 +27,8 @@ function calculateAkanName(event) {
 
   let CC = Math.floor(year / 100);
   let YY = year % 100;
+  
+  // Calculate day of week using formula
 
   let dayOfWeek = Math.floor(
     ((4 * CC - 2 * CC - 1) +
