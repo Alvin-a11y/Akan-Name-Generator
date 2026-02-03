@@ -11,6 +11,9 @@ and are traditionally given according to the day of the week a person is born.
 ## Usage
 Enter your birth date and gender to generate your Akan name.
 
+## Deployment
+Project deployed using GitHub Pages.
+
 
 ## Author
 Alvin Mshindi Waihenya Gathara
